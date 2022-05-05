@@ -169,14 +169,14 @@ Here is a list of useful projects used for making this manual
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/JanduSoft/CardsOfTheDead_Manuals.svg?style=for-the-badge
 [contributors-url]: https://github.com/JanduSoft/CardsOfTheDead_Manuals/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/JanduSoft/CardsOfTheDead_Manuals.svg?style=for-the-badge
 [forks-url]: https://github.com/JanduSoft/CardsOfTheDead_Manuals/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/JanduSoft/CardsOfTheDead_Manuals.svg?style=for-the-badge
 [stars-url]: https://github.com/JanduSoft/CardsOfTheDead_Manuals/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/JanduSoft/CardsOfTheDead_Manuals.svg?style=for-the-badge
 [issues-url]: https://github.com/JanduSoft/CardsOfTheDead_Manuals/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/JanduSoft/CardsOfTheDead_Manuals.svg?style=for-the-badge
 [license-url]: https://github.com/JanduSoft/CardsOfTheDead_Manuals/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.jpg
