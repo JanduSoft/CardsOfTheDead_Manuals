@@ -179,4 +179,4 @@ Here is a list of useful projects used for making this manual
 [issues-url]: https://github.com/JanduSoft/CardsOfTheDead_Manuals/issues
 [license-shield]: https://img.shields.io/github/license/JanduSoft/CardsOfTheDead_Manuals.svg?style=for-the-badge
 [license-url]: https://github.com/JanduSoft/CardsOfTheDead_Manuals/blob/master/LICENSE.txt
-[product-screenshot]: images/screenshot.jpg
+[product-screenshot]: Images/screenshot.jpg
