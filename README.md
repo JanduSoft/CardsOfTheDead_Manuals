@@ -63,7 +63,7 @@
 
 [![Cards of the Dead][product-screenshot]](https://www.kickstarter.com/projects/jandusoft/cards-of-the-dead-the-board-game)
 
-  ```sh
+
 Cards of the Dead: The Board Game is an adaptation of the Cards of the Dead video game.
 A survival game for 1-3 players in a city infested by Zombies.
 
@@ -73,9 +73,9 @@ The game offers an experience that differs from the video game, and can be playe
 In Cards of the Dead: The Board Game players must take control of one of the Survivors and make it out of the city alive over the course of three days.
 Players are advised to explore the interiors of places like the Supermarket where they will need to stock up with equipment and resources in order to remain alive throughout the game.
 At the same time, they will need to contain the Zombies who infest the city and its vicinity, before being surrounded and falling prey to their incessant hunger…
-  ```
 
-On this repository you can find the instructions to create a localization version of the game manual.
+
+<b>On this repository you can find the instructions to create a localization version of the game manual.</b>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
