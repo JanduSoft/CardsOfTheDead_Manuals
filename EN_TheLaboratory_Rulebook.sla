@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.7">
+    <DOCUMENT ANZPAGES="2" PAGEWIDTH="498.897637795276" PAGEHEIGHT="702.992125984252" BORDERLEFT="39.9996850393701" BORDERRIGHT="39.9996850393701" BORDERTOP="39.9996850393701" BORDERBOTTOM="39.9996850393701" PRESET="0" BleedTop="8.50393700787402" BleedLeft="8.50393700787402" BleedRight="8.50393700787402" BleedBottom="8.50393700787402" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="1" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" FirstLineOffset="1" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="8" HCMS="1" DPSo="0" DPSFo="0" DPuse="1" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="es" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20.001" MAJGRID="100.001" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.001" ScratchLeft="100.001" ScratchRight="100.001" ScratchTop="20.001" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.001" dispY="10.001" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.6" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Azul_Background" SPACE="CMYK" C="87" M="71" Y="11" K="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Granate_Background" SPACE="CMYK" C="34" M="90" Y="75" K="43"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="GrisBackground" SPACE="CMYK" C="71" M="62" Y="61" K="57"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="es"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Fondo" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="1" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="4" markLength="20.0013" markOffset="0" BleedTop="8.50393700787402" BleedLeft="8.50393700787402" BleedRight="8.50393700787402" BleedBottom="8.50393700787402" printer="HP Deskjet 1050 J410 series (2 redireccionado)" filename="" separationName="All" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="1" bleedMarks="1" registrationMarks="1" colorMarks="1" docInfoMarks="0" markLength="20.0012598425197" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Fonts Name="m6x11 Medium"/>
+            <Subset Name="Arial Regular"/>
+            <Subset Name="Candara Bold"/>
+            <Subset Name="Candara Bold Italic"/>
+            <Subset Name="Candara Italic"/>
+            <Subset Name="Candara Regular"/>
+            <Subset Name="Cooper Std Black"/>
+            <Subset Name="Times New Roman Bold"/>
+            <Subset Name="Times New Roman Italic"/>
+            <Subset Name="Times New Roman Regular"/>
+            <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="1" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.001" PAGEWIDTH="498.897637795276" PAGEHEIGHT="702.992125984252" BORDERLEFT="39.9996850393701" BORDERRIGHT="39.9996850393701" BORDERTOP="39.9996850393701" BORDERBOTTOM="39.9996850393701" NUM="0" NAM="Normal" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.001" PAGEWIDTH="498.897637795276" PAGEHEIGHT="702.992125984252" BORDERLEFT="39.9996850393701" BORDERRIGHT="39.9996850393701" BORDERTOP="39.9996850393701" BORDERBOTTOM="39.9996850393701" NUM="1" NAM="PaginaMaestra" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="20.001" PAGEWIDTH="498.897637795276" PAGEHEIGHT="702.992125984252" BORDERLEFT="39.9996850393701" BORDERRIGHT="39.9996850393701" BORDERTOP="39.9996850393701" BORDERBOTTOM="39.9996850393701" NUM="0" NAM="" MNAM="PaginaMaestra" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="11.3385826771654" AGhorizontalAutoCount="0" AGverticalAutoCount="1" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="762.993125984252" PAGEWIDTH="498.897637795276" PAGEHEIGHT="702.992125984252" BORDERLEFT="39.9996850393701" BORDERRIGHT="39.9996850393701" BORDERTOP="39.9996850393701" BORDERBOTTOM="39.9996850393701" NUM="1" NAM="" MNAM="PaginaMaestra" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="11.3385826771654" AGhorizontalAutoCount="0" AGverticalAutoCount="1" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <FRAMEOBJECT InID="24982" XPOS="0" YPOS="0" OwnPage="-1" ItemID="76359984" PTYPE="4" WIDTH="225.971421088668" HEIGHT="14.5072463768117" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.0000003087487" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L225.971 0 L225.971 14.5072 L0 14.5072 L0 0 Z" copath="M0 0 L225.971 0 L225.971 14.5072 L0 14.5072 L0 0 Z" isInline="1" gXpos="0" gYpos="0" gWidth="225.971421088668" gHeight="14.5072463768117" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="m6x11 Medium" FONTSIZE="10" FCOLOR="White" FSHADE="100" CH="PREPARACION"/>
+                <trail ALIGN="0"/>
+            </StoryText>
+        </FRAMEOBJECT>
+        <MASTEROBJECT XPOS="65.9852519685039" YPOS="1.2929944877766" OwnPage="1" ItemID="177883664" PTYPE="6" WIDTH="548.514524362445" HEIGHT="741.130434782609" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="GrisBackground" PLINEART="1" path="M0 0 L548.515 0 L548.515 741.13 L0 741.13 L0 0 Z" copath="M0 0 L548.515 0 L548.515 741.13 L0 741.13 L0 0 Z" OnMasterPage="PaginaMaestra" gXpos="342959825.989274" gYpos="12614675922.9751" gWidth="0" gHeight="0" LAYER="0"/>
+        <MASTEROBJECT XPOS="80.1584803149606" YPOS="9.9016901399506" OwnPage="1" ItemID="177983664" PTYPE="2" WIDTH="520.654887251867" HEIGHT="716.869565217391" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.308262218621591" LOCALSCY="0.308262218621591" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/Background3.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" TransValue="0.75" path="M0 0 L520.655 0 L520.655 716.87 L0 716.87 L0 0 Z" copath="M0 0 L520.655 0 L520.655 716.87 L0 716.87 L0 0 Z" OnMasterPage="PaginaMaestra" gXpos="349466182.524865" gYpos="16369292464.2234" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="117.792914566339" YPOS="49.7911674084218" OwnPage="0" ItemID="177967312" PTYPE="4" WIDTH="225.987999999999" HEIGHT="30.5840412982166" FRTYPE="0" CLIPEDIT="1" PWIDTH="1.0000020212647" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L225.988 0 L225.988 30.584 L0 30.584 L0 0 Z" copath="M0 0 L225.988 0 L225.988 30.584 L0 30.584 L0 0 Z" gXpos="0" gYpos="0" gWidth="225.987612992716" gHeight="43.754380504808" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="m6x11 Medium" FONTSIZE="22" FCOLOR="White" FSHADE="100" CH="THE LABORATORY"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="163.780527559055" YPOS="67.5058130012763" OwnPage="0" ItemID="178345936" PTYPE="5" WIDTH="131.811023622047" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.00000171251548" PCOLOR="White" PCOLOR2="White" PLINEART="1" path="" doOverprint="1" gXpos="45.9874832672834" gYpos="17.7146376999245" gWidth="225.987612992716" gHeight="43.754380504808" LAYER="0"/>
+        <PAGEOBJECT XPOS="117.792914566339" YPOS="71.5915608944761" OwnPage="0" ItemID="178352240" PTYPE="4" WIDTH="225.987999999999" HEIGHT="21.9540065139457" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.0000020212647" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L225.988 0 L225.988 21.954 L0 21.954 L0 0 Z" copath="M0 0 L225.988 0 L225.988 21.954 L0 21.954 L0 0 Z" gXpos="0" gYpos="21.8003837726802" gWidth="225.987612992716" gHeight="43.754380504808" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="m6x11 Medium" FONTSIZE="14" FCOLOR="White" FSHADE="100" CH="DAY 3"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="117.771629434257" YPOS="96.4876141732303" OwnPage="0" ItemID="177975232" PTYPE="4" WIDTH="226.008898124798" HEIGHT="51.6614173228347" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L226.009 0 L226.009 51.6614 L0 51.6614 L0 0 Z" copath="M0 0 L226.009 0 L226.009 51.6614 L0 51.6614 L0 0 Z" gXpos="117.771259355517" gYpos="-1145.71622047244" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="12"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" CH="Broaden the base game experience with &quot;"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" CH="The Laboratory"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" CH="&quot;. "/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" CH="Venture into the laboratory where the virus first emerged, square up against new varieties of zombie and find the cure for humanity before it's too late. "/>
+                <trail ALIGN="3" LINESP="12"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="117.809106470387" YPOS="148.126984251968" OwnPage="0" ItemID="178280448" PTYPE="4" WIDTH="225.971421088668" HEIGHT="14.5072463768117" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.0000003087487" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L225.971 0 L225.971 14.5072 L0 14.5072 L0 0 Z" copath="M0 0 L225.971 0 L225.971 14.5072 L0 14.5072 L0 0 Z" gXpos="-10.5383510977188" gYpos="-5490.00283472008" gWidth="153.017952755905" gHeight="30.0062992125992" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="m6x11 Medium" FONTSIZE="10" FCOLOR="White" FSHADE="100" CH="COMPONENTS"/>
+                <trail ALIGN="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="117.771629434257" YPOS="162.684464566931" OwnPage="0" ItemID="178285824" PTYPE="4" WIDTH="226.008898124798" HEIGHT="53.5435395412509" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L226.009 0 L226.009 53.5435 L0 53.5435 L0 0 Z" copath="M0 0 L226.009 0 L226.009 53.5435 L0 53.5435 L0 0 Z" gXpos="117.771259355517" gYpos="-1079.51937007874" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="12" OpticalMargins="0"/>
+                <ITEXT FONT="Cooper Std Black" FONTSIZE="7" FCOLOR="White" FSHADE="100" CH="·"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="2x Epic Cards III"/>
+                <para ALIGN="3" LINESP="12" OpticalMargins="0"/>
+                <ITEXT FONT="Cooper Std Black" FONTSIZE="7" FCOLOR="White" FSHADE="100" CH="·"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="3x Phatogen Cards "/>
+                <para ALIGN="3" LINESP="12" OpticalMargins="0"/>
+                <ITEXT FONT="Cooper Std Black" FONTSIZE="7" FCOLOR="White" FSHADE="100" CH="·"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="3x Threat Cards"/>
+                <para ALIGN="3" LINESP="12" OpticalMargins="0"/>
+                <ITEXT FONT="Cooper Std Black" FONTSIZE="7" FCOLOR="White" FSHADE="100" BGCOLOR="None" CH="·"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="None" CH="5x "/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="Engineering Room Cards"/>
+                <para ALIGN="3" LINESP="12" OpticalMargins="0"/>
+                <ITEXT FONT="Cooper Std Black" FONTSIZE="7" FCOLOR="White" FSHADE="100" CH="·"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="5x Nursing Room Cards  "/>
+                <para ALIGN="3" LINESP="12" OpticalMargins="0"/>
+                <ITEXT FONT="Cooper Std Black" FONTSIZE="7" FCOLOR="White" FSHADE="100" CH="·"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="10x The Laboratory Cards"/>
+                <para ALIGN="3" LINESP="12" OpticalMargins="0"/>
+                <ITEXT FONT="Cooper Std Black" FONTSIZE="7" FCOLOR="White" FSHADE="100" CH="·"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="100x Common Cards (The Laboratory)"/>
+                <para ALIGN="3" LINESP="12" OpticalMargins="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="117.809106470387" YPOS="217.008874015748" OwnPage="0" ItemID="178331568" PTYPE="4" WIDTH="225.971421088668" HEIGHT="14.5072463768117" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.0000003087487" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L225.971 0 L225.971 14.5072 L0 14.5072 L0 0 Z" copath="M0 0 L225.971 0 L225.971 14.5072 L0 14.5072 L0 0 Z" gXpos="-10.5383510977188" gYpos="-5421.12094495629" gWidth="153.017952755905" gHeight="30.0062992125992" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="m6x11 Medium" FONTSIZE="10" FCOLOR="White" FSHADE="100" CH="SET UP"/>
+                <trail ALIGN="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="117.771629434257" YPOS="231.550606299215" OwnPage="0" ItemID="178336944" PTYPE="4" WIDTH="226.008898124798" HEIGHT="106.976512593532" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L226.009 0 L226.009 106.977 L0 106.977 L0 0 Z" copath="M0 0 L226.009 0 L226.009 106.977 L0 106.977 L0 0 Z" gXpos="117.771259355517" gYpos="-1010.65322834645" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="1."/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" Mix the new Threat Cards with those from the base game to create a pile of eleven cards."/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="2."/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" Prepare the remaining cards in separate piles as in the base game."/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="3."/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" Decide whether to play in &quot;Classic Mode&quot; or &quot;New Game +&quot;."/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Times New Roman Regular" FONTSIZE="6" FCOLOR="Yellow" FSHADE="100" CH="&quot;NB: the &quot;Classic Mode&quot; is described in the base game and expanded in &quot;The Road&quot; rulebook (to add new locations). If you have both expansions, do not repeat the location when it comes to deciding where to deploy on the next Day. Decide which location to deploy in the event of a zombie or another type of card appearing&quot;."/>
+                <trail ALIGN="3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="355.119110236221" YPOS="38.4261968503937" OwnPage="0" ItemID="178690592" PTYPE="4" WIDTH="224.354268445886" HEIGHT="436.05123260136" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L224.354 0 L224.354 436.051 L0 436.051 L0 0 Z" copath="M0 0 L224.354 0 L224.354 436.051 L0 436.051 L0 0 Z" gXpos="355.11874015748" gYpos="-1203.77763779527" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="234310688"/>
+        <PAGEOBJECT XPOS="357.103362204724" YPOS="467.006984251971" OwnPage="0" ItemID="234324848" PTYPE="12" WIDTH="229.992837726806" HEIGHT="198.185000000009" FRTYPE="0" CLIPEDIT="0" ANNAME="Grupo7" groupWidth="229.992837726806" groupHeight="198.185000000009" groupClips="1" path="M0 0 L229.993 0 L229.993 198.185 L0 198.185 L0 0 Z" copath="M0 0 L229.993 0 L229.993 198.185 L0 198.185 L0 0 Z" gXpos="357.103362204724" gYpos="467.006984251971" gWidth="0" gHeight="0" LAYER="0">
+            <PAGEOBJECT XPOS="369.870231785478" YPOS="581.843287660779" OwnPage="0" ItemID="177988928" PTYPE="2" WIDTH="32.2043746620723" HEIGHT="43.8864121491685" FRTYPE="0" CLIPEDIT="1" PWIDTH="1.00000025150257" PCOLOR2="Black" PLINEART="1" LOCALSCX="0.0789322908384125" LOCALSCY="0.0789322908384125" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/Icons/CardBlack.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L32.2044 0 L32.2044 43.8864 L0 43.8864 L0 0 Z" copath="M0 0 L32.2044 0 L32.2044 43.8864 L0 43.8864 L0 0 Z" gXpos="12.7668695807536" gYpos="86.4898467158947" gWidth="229.992837726806" gHeight="198.185000000009" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+            <PAGEOBJECT XPOS="357.103362204724" YPOS="593.344846460185" OwnPage="0" ItemID="177994192" PTYPE="4" WIDTH="57.8039376366413" HEIGHT="43.5785009398252" FRTYPE="0" CLIPEDIT="1" PWIDTH="1.00000025150257" PLINEART="1" LOCALSCX="0.999998919814175" LOCALSCY="1.00000025150257" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L57.8039 0 L57.8039 43.5785 L0 43.5785 L0 0 Z" copath="M0 0 L57.8039 0 L57.8039 43.5785 L0 43.5785 L0 0 Z" gXpos="0" gYpos="97.9914055153009" gWidth="229.992837726806" gHeight="198.185000000009" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle LINESP="12"/>
+                    <ITEXT FONT="Times New Roman Bold" FONTSIZE="6" FCOLOR="Yellow" FSHADE="100" CH="The Laboratory"/>
+                    <para ALIGN="1" LINESP="12"/>
+                    <ITEXT FONT="Times New Roman Bold" FONTSIZE="6" FCOLOR="Yellow" FSHADE="100" CH="Cards"/>
+                    <trail ALIGN="1" LINESP="12"/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="369.870231785478" YPOS="637.443250036558" OwnPage="0" ItemID="177997024" PTYPE="2" WIDTH="32.2043746620723" HEIGHT="43.8864121491685" FRTYPE="0" CLIPEDIT="1" PWIDTH="1.00000025150257" PCOLOR2="Black" PLINEART="1" LOCALSCX="0.0789322908384125" LOCALSCY="0.0789322908384125" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/Icons/CardBrown.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L32.2044 0 L32.2044 43.8864 L0 43.8864 L0 0 Z" copath="M0 0 L32.2044 0 L32.2044 43.8864 L0 43.8864 L0 0 Z" gXpos="12.7668695807536" gYpos="142.089809091674" gWidth="229.992837726806" gHeight="198.185000000009" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+            <PAGEOBJECT XPOS="357.103362204724" YPOS="643.170157338713" OwnPage="0" ItemID="177999744" PTYPE="4" WIDTH="57.8039376366413" HEIGHT="43.5806603694361" FRTYPE="0" CLIPEDIT="1" PWIDTH="1.00000025150257" PLINEART="1" LOCALSCX="0.999998919814175" LOCALSCY="1.00000025150257" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L57.8039 0 L57.8039 43.5807 L0 43.5807 L0 0 Z" copath="M0 0 L57.8039 0 L57.8039 43.5806 L0 43.5806 L0 0 Z" gXpos="0" gYpos="147.816716393829" gWidth="229.992837726806" gHeight="198.185000000009" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle LINESP="12"/>
+                    <ITEXT FONT="Times New Roman Bold" FONTSIZE="6" FCOLOR="Yellow" FSHADE="100" CH="Common"/>
+                    <para ALIGN="1" LINESP="12"/>
+                    <ITEXT FONT="Times New Roman Bold" FONTSIZE="6" FCOLOR="Yellow" FSHADE="100" CH="Cards "/>
+                    <para ALIGN="1" LINESP="12"/>
+                    <ITEXT FONT="Times New Roman Bold" FONTSIZE="6" FCOLOR="Yellow" FSHADE="100" CH="&quot;The Laboratory&quot;"/>
+                    <trail ALIGN="1" LINESP="12"/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="379.464115721673" YPOS="504.711436091314" OwnPage="0" ItemID="178887968" PTYPE="2" WIDTH="32.203367038906" HEIGHT="43.8850390138068" FRTYPE="0" CLIPEDIT="1" PWIDTH="0.750000693910379" PCOLOR2="Black" PLINEART="1" LOCALSCX="0.0789298211737893" LOCALSCY="0.0789298211737893" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/Icons/CardBlack.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" copath="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" gXpos="22.3607535169486" gYpos="9.35799514643026" gWidth="229.992837726806" gHeight="198.185000000009" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+            <PAGEOBJECT XPOS="379.790379293709" YPOS="495.353440944884" OwnPage="0" ItemID="178890688" PTYPE="12" WIDTH="44.4748497151653" HEIGHT="5.78637946247096" FRTYPE="0" CLIPEDIT="1" ANNAME="Copia de Grupo69 (2)" groupWidth="71.0249018982262" groupHeight="9.24067221893347" groupClips="1" path="M0 0 L44.4748 0 L44.4748 5.78638 L0 5.78638 L0 0 Z" copath="M0 0 L44.4749 0 L44.4749 5.78638 L0 5.78638 L0 0 Z" gXpos="22.6870170889852" gYpos="0" gWidth="229.992837726806" gHeight="198.185000000009" LAYER="0">
+                <PAGEOBJECT XPOS="379.790389337571" YPOS="499.957714661473" OwnPage="0" ItemID="178893408" PTYPE="5" WIDTH="71.0248818897638" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="359.99729315541" PWIDTH="0.425196850393723" PCOLOR="White" PCOLOR2="White" PLINEART="1" path="" gXpos="1.00438619483612e-05" gYpos="4.60427371658852" gWidth="71.0249018982262" gHeight="9.24067221893347" LAYER="0"/>
+                <PAGEOBJECT XPOS="443.102662758272" YPOS="495.537556581909" OwnPage="0" ItemID="178896128" PTYPE="5" WIDTH="8.66267716535428" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="30.0000000000012" PWIDTH="0.42519685039375" PCOLOR="White" PCOLOR2="White" PLINEART="1" path="" gXpos="63.3122834645628" gYpos="0.184115637025116" gWidth="71.0249018982262" gHeight="9.24067221893347" LAYER="0"/>
+                <PAGEOBJECT XPOS="443.102662758272" YPOS="504.409997526792" OwnPage="0" ItemID="178898848" PTYPE="5" WIDTH="8.66267716535428" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="329.999999999999" PWIDTH="0.42519685039375" PCOLOR="White" PCOLOR2="White" PLINEART="1" path="" gXpos="63.3122834645628" gYpos="9.05655658190835" gWidth="71.0249018982262" gHeight="9.24067221893347" LAYER="0"/>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="370.081828331264" YPOS="506.563694029369" OwnPage="0" ItemID="178901568" PTYPE="12" WIDTH="5.78638845512372" HEIGHT="37.374696750984" FRTYPE="0" CLIPEDIT="1" ANNAME="Copia de Grupo70 (2)" groupWidth="9.24067221893324" groupHeight="59.6863192337141" groupClips="1" path="M0 0 L5.78639 0 L5.78639 37.3747 L0 37.3747 L0 0 Z" copath="M0 0 L5.78638 0 L5.78638 37.3747 L0 37.3747 L0 0 Z" gXpos="12.9784661265403" gYpos="11.2102530844851" gWidth="229.992837726806" gHeight="198.185000000009" LAYER="0">
+                <PAGEOBJECT XPOS="374.718226833608" YPOS="506.563704073231" OwnPage="0" ItemID="178761744" PTYPE="5" WIDTH="59.6862992125984" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="89.9972931554098" PWIDTH="0.42519685039373" PCOLOR="White" PCOLOR2="White" PLINEART="1" path="" gXpos="4.63639850234392" gYpos="1.00438619483612e-05" gWidth="9.24067221893324" gHeight="59.6863192337141" LAYER="0"/>
+                <PAGEOBJECT XPOS="379.138384913172" YPOS="558.537394816775" OwnPage="0" ItemID="178764464" PTYPE="5" WIDTH="8.66267716535595" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="120.000000000001" PWIDTH="0.425196850393785" PCOLOR="White" PCOLOR2="White" PLINEART="1" path="" gXpos="9.05655658190813" gYpos="51.973700787406" gWidth="9.24067221893324" gHeight="59.6863192337141" LAYER="0"/>
+                <PAGEOBJECT XPOS="370.265943968289" YPOS="558.537394816775" OwnPage="0" ItemID="178767184" PTYPE="5" WIDTH="8.66267716535595" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="59.9999999999992" PWIDTH="0.425196850393785" PCOLOR="White" PCOLOR2="White" PLINEART="1" path="" gXpos="0.184115637025116" gYpos="51.973700787406" gWidth="9.24067221893324" gHeight="59.6863192337141" LAYER="0"/>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="534.296008530338" YPOS="607.33849185495" OwnPage="0" ItemID="178769904" PTYPE="4" WIDTH="47.2213536743818" HEIGHT="27.4619189632625" FRTYPE="0" CLIPEDIT="1" PWIDTH="1.00000025150257" PLINEART="1" LOCALSCX="0.999998919814175" LOCALSCY="1.00000025150257" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L47.2214 0 L47.2214 27.4619 L0 27.4619 L0 0 Z" copath="M0 0 L47.2213 0 L47.2213 27.4619 L0 27.4619 L0 0 Z" gXpos="177.192646325614" gYpos="111.985050910066" gWidth="229.992837726806" gHeight="198.185000000009" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle LINESP="12"/>
+                    <ITEXT FONT="Times New Roman Regular" FONTSIZE="6" FCOLOR="Yellow" FSHADE="100" CH="&quot;Add this row for two player games&quot;"/>
+                    <trail ALIGN="1" LINESP="12"/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="531.461362861047" YPOS="649.858189013972" OwnPage="0" ItemID="178772736" PTYPE="4" WIDTH="55.6348370704831" HEIGHT="38.1454380784654" FRTYPE="0" CLIPEDIT="1" PWIDTH="1.00000025150257" PLINEART="1" LOCALSCX="0.999998919814175" LOCALSCY="1.00000025150257" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L55.6348 0 L55.6348 38.1454 L0 38.1454 L0 0 Z" copath="M0 0 L55.6348 0 L55.6348 38.1454 L0 38.1454 L0 0 Z" gXpos="174.358000656323" gYpos="154.504748069088" gWidth="229.992837726806" gHeight="198.185000000009" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle LINESP="12"/>
+                    <ITEXT FONT="Times New Roman Regular" FONTSIZE="6" FCOLOR="Yellow" FSHADE="100" CH="&quot;Add this card for trhee player games&quot;"/>
+                    <trail ALIGN="1" LINESP="12"/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="416.314469617187" YPOS="504.711436091314" OwnPage="0" ItemID="223361456" PTYPE="2" WIDTH="32.203367038906" HEIGHT="43.8850390138068" FRTYPE="0" CLIPEDIT="1" PWIDTH="0.750000693910379" PCOLOR2="Black" PLINEART="1" LOCALSCX="0.0789298211737893" LOCALSCY="0.0789298211737893" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/Icons/CardBlack.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" copath="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" gXpos="59.2111074124627" gYpos="9.35799514643014" gWidth="229.992837726806" gHeight="198.185000000009" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+            <PAGEOBJECT XPOS="453.164823512701" YPOS="504.711436091314" OwnPage="0" ItemID="223350128" PTYPE="2" WIDTH="32.203367038906" HEIGHT="43.8850390138068" FRTYPE="0" CLIPEDIT="1" PWIDTH="0.750000693910379" PCOLOR2="Black" PLINEART="1" LOCALSCX="0.0789298211737893" LOCALSCY="0.0789298211737893" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/Icons/CardBlack.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" copath="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" gXpos="96.0614613079767" gYpos="9.35799514643014" gWidth="229.992837726806" gHeight="198.185000000009" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+            <PAGEOBJECT XPOS="490.015177408215" YPOS="504.711436091314" OwnPage="0" ItemID="223344464" PTYPE="2" WIDTH="32.203367038906" HEIGHT="43.8850390138068" FRTYPE="0" CLIPEDIT="1" PWIDTH="0.750000693910379" PCOLOR2="Black" PLINEART="1" LOCALSCX="0.0789298211737893" LOCALSCY="0.0789298211737893" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/Icons/CardBlack.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" copath="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" gXpos="132.911815203491" gYpos="9.35799514643014" gWidth="229.992837726806" gHeight="198.185000000009" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+            <PAGEOBJECT XPOS="526.865531303729" YPOS="504.711436091314" OwnPage="0" ItemID="223341632" PTYPE="2" WIDTH="32.203367038906" HEIGHT="43.8850390138068" FRTYPE="0" CLIPEDIT="1" PWIDTH="0.750000693910379" PCOLOR2="Black" PLINEART="1" LOCALSCX="0.0789298211737893" LOCALSCY="0.0789298211737893" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/Icons/CardBlack.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" copath="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" gXpos="169.762169099005" gYpos="9.35799514643014" gWidth="229.992837726806" gHeight="198.185000000009" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+            <PAGEOBJECT XPOS="399.306613973103" YPOS="527.388607149011" OwnPage="0" ItemID="223347296" PTYPE="2" WIDTH="32.203367038906" HEIGHT="43.8850390138093" FRTYPE="0" CLIPEDIT="1" PWIDTH="0.750000693910422" PCOLOR2="Black" PLINEART="1" LOCALSCX="0.0789298211737893" LOCALSCY="0.0789298211737893" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/Icons/CardBrown.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" copath="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" gXpos="42.2032517683787" gYpos="32.035166204127" gWidth="229.992837726806" gHeight="198.185000000009" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+            <PAGEOBJECT XPOS="436.156967868617" YPOS="527.388607149011" OwnPage="0" ItemID="223352960" PTYPE="2" WIDTH="32.203367038906" HEIGHT="43.8850390138093" FRTYPE="0" CLIPEDIT="1" PWIDTH="0.750000693910422" PCOLOR2="Black" PLINEART="1" LOCALSCX="0.0789298211737893" LOCALSCY="0.0789298211737893" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/Icons/CardBrown.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" copath="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" gXpos="79.0536056638932" gYpos="32.0351662041265" gWidth="229.992837726806" gHeight="198.185000000009" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+            <PAGEOBJECT XPOS="473.007321764132" YPOS="527.388607149011" OwnPage="0" ItemID="223355792" PTYPE="2" WIDTH="32.203367038906" HEIGHT="43.8850390138093" FRTYPE="0" CLIPEDIT="1" PWIDTH="0.750000693910422" PCOLOR2="Black" PLINEART="1" LOCALSCX="0.0789298211737893" LOCALSCY="0.0789298211737893" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/Icons/CardBrown.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" copath="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" gXpos="115.903959559408" gYpos="32.0351662041265" gWidth="229.992837726806" gHeight="198.185000000009" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+            <PAGEOBJECT XPOS="509.857675659646" YPOS="527.388607149011" OwnPage="0" ItemID="223358624" PTYPE="2" WIDTH="32.203367038906" HEIGHT="43.8850390138093" FRTYPE="0" CLIPEDIT="1" PWIDTH="0.750000693910422" PCOLOR2="Black" PLINEART="1" LOCALSCX="0.0789298211737893" LOCALSCY="0.0789298211737893" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/Icons/CardBrown.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" copath="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" gXpos="152.754313454922" gYpos="32.0351662041265" gWidth="229.992837726806" gHeight="198.185000000009" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+            <PAGEOBJECT XPOS="419.149112224533" YPOS="552.900424588919" OwnPage="0" ItemID="223335968" PTYPE="2" WIDTH="32.203367038906" HEIGHT="43.8850390138093" FRTYPE="0" CLIPEDIT="1" PWIDTH="0.750000693910422" PCOLOR2="Black" PLINEART="1" LOCALSCX="0.0789298211737893" LOCALSCY="0.0789298211737893" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/Icons/CardBrown.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" copath="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" gXpos="62.0457500198093" gYpos="57.546983644035" gWidth="229.992837726806" gHeight="198.185000000009" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+            <PAGEOBJECT XPOS="455.999466120048" YPOS="552.900424588919" OwnPage="0" ItemID="223364288" PTYPE="2" WIDTH="32.203367038906" HEIGHT="43.8850390138093" FRTYPE="0" CLIPEDIT="1" PWIDTH="0.750000693910422" PCOLOR2="Black" PLINEART="1" LOCALSCX="0.0789298211737893" LOCALSCY="0.0789298211737893" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/Icons/CardBrown.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" copath="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" gXpos="98.8961039153236" gYpos="57.5469836440352" gWidth="229.992837726806" gHeight="198.185000000009" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+            <PAGEOBJECT XPOS="492.849820015562" YPOS="552.900424588919" OwnPage="0" ItemID="223338800" PTYPE="2" WIDTH="32.203367038906" HEIGHT="43.8850390138093" FRTYPE="0" CLIPEDIT="1" PWIDTH="0.750000693910422" PCOLOR2="Black" PLINEART="1" LOCALSCX="0.0789298211737893" LOCALSCY="0.0789298211737893" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/Icons/CardBrown.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" copath="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" gXpos="135.746457810838" gYpos="57.5469836440352" gWidth="229.992837726806" gHeight="198.185000000009" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+            <PAGEOBJECT XPOS="436.156967868617" YPOS="601.089413086524" OwnPage="0" ItemID="223448464" PTYPE="2" WIDTH="32.203367038906" HEIGHT="43.8850390138093" FRTYPE="0" CLIPEDIT="1" PWIDTH="0.750000693910422" PCOLOR2="Black" PLINEART="1" LOCALSCX="0.0789298211737893" LOCALSCY="0.0789298211737893" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/Icons/CardBrown.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" copath="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" gXpos="79.0536056638929" gYpos="105.73597214164" gWidth="229.992837726806" gHeight="198.185000000009" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+            <PAGEOBJECT XPOS="473.007321764131" YPOS="601.089413086523" OwnPage="0" ItemID="223451296" PTYPE="2" WIDTH="32.203367038906" HEIGHT="43.8850390138093" FRTYPE="0" CLIPEDIT="1" PWIDTH="0.750000693910422" PCOLOR2="Black" PLINEART="1" LOCALSCX="0.0789298211737893" LOCALSCY="0.0789298211737893" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/Icons/CardBrown.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" copath="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" gXpos="115.903959559407" gYpos="105.735972141639" gWidth="229.992837726806" gHeight="198.185000000009" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+            <PAGEOBJECT XPOS="493.952261684678" YPOS="615.276620712162" OwnPage="0" ItemID="223434304" PTYPE="12" WIDTH="40.372275813861" HEIGHT="1.38390888856745" FRTYPE="0" CLIPEDIT="0" ANNAME="Copia de Grupo5" groupWidth="40.3723194234682" groupHeight="1.3839085405109" groupClips="1" path="M0 0 L40.3723 0 L40.3723 1.38391 L0 1.38391 L0 0 Z" copath="M0 0 L40.3723 0 L40.3723 1.38391 L0 1.38391 L0 0 Z" gXpos="136.848899479954" gYpos="119.923179767278" gWidth="229.992837726806" gHeight="198.185000000009" LAYER="0">
+                <PAGEOBJECT XPOS="494.922998816066" YPOS="615.964965692002" OwnPage="0" ItemID="223445632" PTYPE="5" WIDTH="39.4015748031496" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="359.99729315541" PWIDTH="0.318897852640196" PCOLOR="White" PCOLOR2="White" PLINEART="1" path="" gXpos="0.970737131388034" gYpos="0.688344979839769" gWidth="40.3723194234682" gHeight="1.3839085405109" LAYER="0"/>
+                <PAGEOBJECT XPOS="494.111710610998" YPOS="616.501080326353" OwnPage="0" ItemID="223454128" PTYPE="6" WIDTH="1.06501068787077" HEIGHT="1.06501068787077" FRTYPE="1" CLIPEDIT="1" ROT="270" PWIDTH="0.318897852640172" PCOLOR="White" PCOLOR2="White" PLINEART="1" path="M1.06501 0.532505 C1.06501 0.826611 0.826611 1.06501 0.532505 1.06501 C0.238411 1.06501 0 0.826611 0 0.532505 C0 0.238411 0.238411 0 0.532505 0 C0.826611 0 1.06501 0.238411 1.06501 0.532505 Z" copath="M0.532506 -1.06501 C0.826611 -1.06501 1.06501 -0.826609 1.06501 -0.532505 C1.06501 -0.23841 0.826611 0 0.532506 0 C0.238411 0 0 -0.23841 0 -0.532505 C0 -0.826609 0.238411 -1.06501 0.532506 -1.06501 Z" gXpos="0.159448926320067" gYpos="1.22445961419083" gWidth="40.3723194234682" gHeight="1.3839085405109" LAYER="0"/>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="449.000737107792" YPOS="587.85169377299" OwnPage="0" ItemID="223456960" PTYPE="6" WIDTH="11.300130999609" HEIGHT="12.5579068172326" FRTYPE="8" CLIPEDIT="1" PWIDTH="0.626185577876235" PCOLOR="White" PCOLOR2="Black" PLINEART="1" path="M0 6.27895 L5.65003 0 L11.3001 6.27895 L8.47506 6.27895 L8.47506 12.5579 L2.82503 12.5579 L2.82503 6.27895 L0 6.27895 Z" copath="M0 6.27895 L5.65003 0 L11.3001 6.27895 L8.47506 6.27895 L8.47506 12.5579 L2.82503 12.5579 L2.82503 6.27895 L0 6.27895 Z" gXpos="91.8973749030675" gYpos="92.4982528281055" gWidth="229.992837726806" gHeight="198.185000000009" LAYER="0"/>
+            <PAGEOBJECT XPOS="485.851091003306" YPOS="587.851693772989" OwnPage="0" ItemID="223459792" PTYPE="6" WIDTH="11.300130999609" HEIGHT="12.5579068172326" FRTYPE="8" CLIPEDIT="1" PWIDTH="0.626185577876235" PCOLOR="White" PCOLOR2="Black" PLINEART="1" path="M0 6.27895 L5.65003 0 L11.3001 6.27895 L8.47506 6.27895 L8.47506 12.5579 L2.82503 12.5579 L2.82503 6.27895 L0 6.27895 Z" copath="M0 6.27895 L5.65003 0 L11.3001 6.27895 L8.47506 6.27895 L8.47506 12.5579 L2.82503 12.5579 L2.82503 6.27895 L0 6.27895 Z" gXpos="128.747728798582" gYpos="92.4982528281051" gWidth="229.992837726806" gHeight="198.185000000009" LAYER="0"/>
+            <PAGEOBJECT XPOS="455.999466120048" YPOS="649.278401584128" OwnPage="0" ItemID="223462624" PTYPE="2" WIDTH="32.203367038906" HEIGHT="43.8850390138093" FRTYPE="0" CLIPEDIT="1" PWIDTH="0.750000693910422" PCOLOR2="Black" PLINEART="1" LOCALSCX="0.0789298211737893" LOCALSCY="0.0789298211737893" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/Icons/CardBrown.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" copath="M0 0 L32.2034 0 L32.2034 43.885 L0 43.885 L0 0 Z" gXpos="98.8961039153237" gYpos="153.924960639244" gWidth="229.992837726806" gHeight="198.185000000009" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+            <PAGEOBJECT XPOS="466.008592751875" YPOS="636.040682270594" OwnPage="0" ItemID="223437136" PTYPE="6" WIDTH="11.300130999609" HEIGHT="12.5579068172326" FRTYPE="8" CLIPEDIT="1" PWIDTH="0.626185577876235" PCOLOR="White" PCOLOR2="Black" PLINEART="1" path="M0 6.27895 L5.65003 0 L11.3001 6.27895 L8.47506 6.27895 L8.47506 12.5579 L2.82503 12.5579 L2.82503 6.27895 L0 6.27895 Z" copath="M0 6.27895 L5.65003 0 L11.3001 6.27895 L8.47506 6.27895 L8.47506 12.5579 L2.82503 12.5579 L2.82503 6.27895 L0 6.27895 Z" gXpos="108.905230547151" gYpos="140.68724132571" gWidth="229.992837726806" gHeight="198.185000000009" LAYER="0"/>
+            <PAGEOBJECT XPOS="483.584427338105" YPOS="658.48466159829" OwnPage="0" ItemID="223465456" PTYPE="5" WIDTH="50.740102671518" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="359.99729315541" PWIDTH="0.318897932843805" PCOLOR="White" PCOLOR2="White" PLINEART="1" path="" gXpos="126.481065133381" gYpos="163.131220653406" gWidth="229.992837726806" gHeight="198.185000000009" LAYER="0"/>
+            <PAGEOBJECT XPOS="482.773307362539" YPOS="659.020558413652" OwnPage="0" ItemID="223439968" PTYPE="6" WIDTH="1.06501095572369" HEIGHT="1.06500953746132" FRTYPE="1" CLIPEDIT="1" ROT="270" PWIDTH="0.318897932843801" PCOLOR="White" PCOLOR2="White" PLINEART="1" path="M1.06501 0.532505 C1.06501 0.82661 0.826611 1.06501 0.532505 1.06501 C0.238411 1.06501 0 0.82661 0 0.532505 C0 0.238411 0.238411 0 0.532505 0 C0.826611 0 1.06501 0.238411 1.06501 0.532505 Z" copath="M0.532506 -1.06501 C0.826611 -1.06501 1.06501 -0.826608 1.06501 -0.532504 C1.06501 -0.23841 0.826611 0 0.532506 0 C0.238411 0 0 -0.23841 0 -0.532504 C0 -0.826608 0.238411 -1.06501 0.532506 -1.06501 Z" gXpos="125.669945157815" gYpos="163.667117468768" gWidth="229.992837726806" gHeight="198.185000000009" LAYER="0"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="117.771629434257" YPOS="795.875015748032" OwnPage="1" ItemID="223188496" PTYPE="4" WIDTH="189.92125984252" HEIGHT="635.081505991099" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L189.921 0 L189.921 635.082 L0 635.082 L0 0 Z" copath="M0 0 L189.921 0 L189.921 635.082 L0 635.082 L0 0 Z" gXpos="117.771259355517" gYpos="-446.328818897633" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="223442800" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="12"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="&quot;"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="Showcase Chainsaw"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="&quot;"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=": "/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" CH="if the Hit Points get to zero or a &quot;Toolkit&quot; card is used, the active player receives the &quot;Epic Cards III&quot;, &quot;Chainsaw&quot; and &quot;Gas Chainsaw&quot; cards (if they don't have space in their hand, they'll need to discard one or more cards in the process)."/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="&quot;"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="Zombie Doctor"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="&quot;"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=": "/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" CH="when the &quot;Zombie Doctor&quot; is removed, the remaining zombies present in the &quot;Playing Area&quot; remove any Hit Tokens they had on top of them."/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="&quot;"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="Zombie Scientist"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="&quot;"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=": "/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" CH="on receiving Range Damage the &quot;Zombie Scientist&quot; explodes. In this case, determine the Explosive Damage."/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="&quot;"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="Zombie Nurse"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="&quot;"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=": "/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" CH="every time this card accumulates a Turn Token, each player loses the Immunity Points shown."/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="&quot;"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="Project: Goliath"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="&quot;"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=": "/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" CH="every time this card accumulates three Turn Tokens, remove any Hit Tokens the &quot;Project: Goliath&quot; card had on top of it."/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="&quot;"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="N.B.C."/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="&quot;"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=": "/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" CH="once this is used, leave the card next to the Survivor card (to show that they are wearing it). As long as the Survivor has the &quot;N.B.C.&quot; card, they cannot lose Immunity Points. If the Survivor receives Damage causing them to lose Strike Points, immediately discard the &quot;N.B.C.&quot;."/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Times New Roman Regular" FONTSIZE="6" FCOLOR="Yellow" FSHADE="100" CH="&quot;NB: The Survivor can be kitted out with &quot;Kevlar&quot; and &quot;N.B.C.&quot; simultaneously. Because &quot;Kevlar&quot; absorbs the Hit Points, as long as the player has the &quot;Kevlar&quot; card activated, they will not need to discard the &quot;N.B.C.&quot; card&quot;."/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="&quot;"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="Viral Gun"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="&quot;"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=": every time a player shoots the &quot;Viral Gun&quot; they lose the Immunity Points shown."/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Times New Roman Regular" FONTSIZE="6" FCOLOR="Yellow" FSHADE="100" CH="&quot;NB: If they're wearing the &quot;N.B.C.&quot; suit, the player will not lose Immunity Points when they shoot&quot;."/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="&quot;"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="Workshop"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="&quot;"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=": "/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" CH="if a player discards a &quot;Toolkit&quot; card, each player can increase by "/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" CH="1"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" CH=" the Damage of one of their weapons (regardless of the type of Damage) that they have in their hand, Reserve or equipment at that time. If the weapon has limited Uses, the effect will be lost once the card has to be discarded."/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Times New Roman Regular" FONTSIZE="6" FCOLOR="Yellow" FSHADE="100" CH="&quot;NB: &quot;Punch&quot; is not a weapon. It cannot benefit from the effect."/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="&quot;"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="Hidden Stash"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="&quot;"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=": "/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" CH="each player can discard any number of cards from their hand and draw the same number from the discard pile. The players choose the cards to draw from the discard pile. Players may not discard more cards than the total number of cards available in the discard pile."/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Times New Roman Regular" FONTSIZE="6" FCOLOR="Yellow" FSHADE="100" CH="&quot;NB: players can only draw cards that are usable, just as in the &quot;Playing Area&quot;. "/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Times New Roman Regular" FONTSIZE="6" FCOLOR="White" FSHADE="100" CH="Cards of the Dead : The Laboratory © Copyright JanduSoft 2022. Minitabletopgames and Cards of the Dead : The Laboratory and all associated logos, illustrations, images are trademarks of JanduSoft SL."/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Times New Roman Regular" FONTSIZE="6" FCOLOR="White" FSHADE="100" CH="No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, without the prior permission of the publishers."/>
+                <para ALIGN="3" LINESP="12"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="117.788401574803" YPOS="781.418322834646" OwnPage="1" ItemID="223468288" PTYPE="4" WIDTH="225.971421088668" HEIGHT="14.5072463768117" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.0000003087487" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L225.971 0 L225.971 14.5072 L0 14.5072 L0 0 Z" copath="M0 0 L225.971 0 L225.971 14.5072 L0 14.5072 L0 0 Z" gXpos="-10.5590559933026" gYpos="-4856.71149613739" gWidth="153.017952755905" gHeight="30.0062992125992" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="m6x11 Medium" FONTSIZE="10" FCOLOR="White" FSHADE="100" CH="GLOSSARY"/>
+                <para ALIGN="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="355.119110236221" YPOS="795.875015748032" OwnPage="1" ItemID="223442800" PTYPE="4" WIDTH="189.92125984252" HEIGHT="635.081505991099" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L189.921 0 L189.921 635.082 L0 635.082 L0 0 Z" copath="M0 0 L189.921 0 L189.921 635.082 L0 635.082 L0 0 Z" gXpos="355.118740157481" gYpos="-446.328818897633" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="223188496"/>
+        <PAGEOBJECT XPOS="315.150606299213" YPOS="892.081944881898" OwnPage="1" ItemID="223488112" PTYPE="2" WIDTH="28.4995275590551" HEIGHT="40.0018565682606" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.146904781232243" LOCALSCY="0.146904781232243" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/LabDoc.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L28.4995 0 L28.4995 40.0019 L0 40.0019 L0 0 Z" copath="M0 0 L28.4995 0 L28.4995 40.0019 L0 40.0019 L0 0 Z" gXpos="-101.95937007874" gYpos="-53.5984251968505" gWidth="59.6806299212601" gHeight="40.0018565682603" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="315.150606299213" YPOS="965.782732283477" OwnPage="1" ItemID="223490944" PTYPE="2" WIDTH="28.4995275590551" HEIGHT="40.0018565682606" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.146904781232243" LOCALSCY="0.146904781232243" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/LabScien.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L28.4995 0 L28.4995 40.0019 L0 40.0019 L0 0 Z" copath="M0 0 L28.4995 0 L28.4995 40.0019 L0 40.0019 L0 0 Z" gXpos="-101.95937007874" gYpos="20.1023622047242" gWidth="59.6806299212601" gHeight="40.0018565682603" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="315.150606299213" YPOS="1036.64887401575" OwnPage="1" ItemID="223473952" PTYPE="2" WIDTH="28.4995275590551" HEIGHT="40.0018565682606" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.146904781232243" LOCALSCY="0.146904781232243" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/LabNurse.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L28.4995 0 L28.4995 40.0019 L0 40.0019 L0 0 Z" copath="M0 0 L28.4995 0 L28.4995 40.0019 L0 40.0019 L0 0 Z" gXpos="-101.95937007874" gYpos="90.9685039370073" gWidth="59.6806299212601" gHeight="40.0018565682603" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="315.150606299213" YPOS="1110.34966141733" OwnPage="1" ItemID="223476784" PTYPE="2" WIDTH="28.4995275590551" HEIGHT="40.0018565682606" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.146904781232243" LOCALSCY="0.146904781232243" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/LabGoliath.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L28.4995 0 L28.4995 40.0019 L0 40.0019 L0 0 Z" copath="M0 0 L28.4995 0 L28.4995 40.0019 L0 40.0019 L0 0 Z" gXpos="-101.95937007874" gYpos="164.669291338583" gWidth="59.6806299212601" gHeight="40.0018565682603" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="315.150606299213" YPOS="1181.21580314962" OwnPage="1" ItemID="223485280" PTYPE="2" WIDTH="28.4995275590551" HEIGHT="40.0018565682606" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.146904781232243" LOCALSCY="0.146904781232243" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/LabNBQ.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L28.4995 0 L28.4995 40.0019 L0 40.0019 L0 0 Z" copath="M0 0 L28.4995 0 L28.4995 40.0019 L0 40.0019 L0 0 Z" gXpos="-101.95937007874" gYpos="235.535433070866" gWidth="59.6806299212601" gHeight="40.0018565682603" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="315.150606299213" YPOS="1337.12131496064" OwnPage="1" ItemID="223496608" PTYPE="2" WIDTH="28.4995275590551" HEIGHT="40.0018565682606" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.146904781232243" LOCALSCY="0.146904781232243" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/LabGun.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L28.4995 0 L28.4995 40.0019 L0 40.0019 L0 0 Z" copath="M0 0 L28.4995 0 L28.4995 40.0019 L0 40.0019 L0 0 Z" gXpos="-101.95937007874" gYpos="391.440944881889" gWidth="59.6806299212601" gHeight="40.0018565682603" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="315.150606299213" YPOS="795.703992125991" OwnPage="1" ItemID="223471120" PTYPE="2" WIDTH="28.4995275590551" HEIGHT="40.0018565682606" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.146904781232243" LOCALSCY="0.146904781232243" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/LabChain.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L28.4995 0 L28.4995 40.0019 L0 40.0019 L0 0 Z" copath="M0 0 L28.4995 0 L28.4995 40.0019 L0 40.0019 L0 0 Z" gXpos="-101.95937007874" gYpos="-149.976377952756" gWidth="59.6806299212601" gHeight="40.0018565682603" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="550.426196850393" YPOS="795.703992125991" OwnPage="1" ItemID="223479616" PTYPE="2" WIDTH="28.4995275590551" HEIGHT="40.0018565682606" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.146904781232243" LOCALSCY="0.146904781232243" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/LabWork.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L28.4995 0 L28.4995 40.0019 L0 40.0019 L0 0 Z" copath="M0 0 L28.4995 0 L28.4995 40.0019 L0 40.0019 L0 0 Z" gXpos="133.316220472441" gYpos="-149.976377952756" gWidth="59.6806299212601" gHeight="40.0018565682603" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="550.426196850393" YPOS="917.593755905521" OwnPage="1" ItemID="223493776" PTYPE="2" WIDTH="28.4995275590551" HEIGHT="40.0018565682606" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.146904781232243" LOCALSCY="0.146904781232243" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/LabHidden.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L28.4995 0 L28.4995 40.0019 L0 40.0019 L0 0 Z" copath="M0 0 L28.4995 0 L28.4995 40.0019 L0 40.0019 L0 0 Z" gXpos="133.316220472441" gYpos="-28.0866141732284" gWidth="59.6806299212601" gHeight="40.0018565682603" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="398.234825228709" YPOS="1310.84330025733" OwnPage="1" ItemID="223482448" PTYPE="2" WIDTH="56.6638125665667" HEIGHT="23.1833270486219" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="0.0566638125665667" LOCALSCY="0.0566638125665667" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/BoomFire.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L56.6638 0 L56.6638 23.1833 L0 23.1833 L0 0 Z" copath="M0 0 L56.6638 0 L56.6638 23.1833 L0 23.1833 L0 0 Z" gXpos="398.234825228709" gYpos="1310.84330025733" gWidth="56.6638125665667" gHeight="23.1833270486219" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="355.686039370079" YPOS="1296.24200262367" OwnPage="1" ItemID="234285200" PTYPE="2" WIDTH="39.1673479639747" HEIGHT="37.6006586817913" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="0.0391673479639747" LOCALSCY="0.0391673479639747" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/MTG.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L39.1673 0 L39.1673 37.6007 L0 37.6007 L0 0 Z" copath="M0 0 L39.1673 0 L39.1673 37.6007 L0 37.6007 L0 0 Z" gXpos="355.686039370079" gYpos="1296.24200262367" gWidth="39.1673479639747" gHeight="37.6006586817913" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="398.234825228709" YPOS="1296.05800787401" OwnPage="1" ItemID="234290864" PTYPE="2" WIDTH="56.6638125665667" HEIGHT="13.3550800202098" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="0.190786857431569" LOCALSCY="0.190786857431569" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/JanduLogo.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L56.6638 0 L56.6638 13.3551 L0 13.3551 L0 0 Z" copath="M0 0 L56.6638 0 L56.6638 13.3551 L0 13.3551 L0 0 Z" gXpos="398.234825228709" gYpos="1296.05800787401" gWidth="56.6638125665667" gHeight="13.3550800202098" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="117.682258967327" YPOS="38.682574803147" OwnPage="0" ItemID="234296528" PTYPE="2" WIDTH="39.6850393700787" HEIGHT="26.0247318733382" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0806606491261762" LOCALSCY="0.0806606491261762" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/LogoCards.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L39.685 0 L39.685 26.0247 L0 26.0247 L0 0 Z" copath="M0 0 L39.685 0 L39.685 26.0247 L0 26.0247 L0 0 Z" gXpos="117.681888888587" gYpos="3765.29511811023" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="117.771629434257" YPOS="364.778952755907" OwnPage="0" ItemID="234310688" PTYPE="4" WIDTH="226.008898124798" HEIGHT="326.145681664791" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L226.009 0 L226.009 326.146 L0 326.146 L0 0 Z" copath="M0 0 L226.009 0 L226.009 326.146 L0 326.146 L0 0 Z" gXpos="117.771259355517" gYpos="-877.424881889755" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="178690592" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="12"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="9" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="How to win"/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="Humanity is not yet lost and still has a chance. Find the "/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="Pathogens"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" needed and produce a cure for the virus while fleeing from the hordes of zombies."/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="1."/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="None" CH=" "/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="Victory"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" &quot;Save Humanity&quot;: if the Survivors manage to end the third Day in possession of the three Pathogens."/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="2."/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="None" CH=" "/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="Draw"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" &quot;Live another day&quot;: if the Survivors manage to end the third Day but they are not in possession of all the Pathogens."/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="3."/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="None" CH=" "/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" "/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="Defeat"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" &quot;Brainssss&quot;: all the Survivors have died before ending the third Day."/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="9" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="Set Up"/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="1."/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" Find and separate from the piles of Common Cards:"/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="None" CH="a."/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" &quot;The City&quot;:"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" the &quot;"/>
+                <ITEXT FONT="Carlito Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="Abomination"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="&quot; card."/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Carlito Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="None" CH="b. "/>
+                <ITEXT FONT="Carlito Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="&quot;The Road&quot;:"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" the &quot;"/>
+                <ITEXT FONT="Carlito Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="Witch"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="&quot; card."/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Carlito Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="None" CH="c."/>
+                <ITEXT FONT="Carlito Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" &quot;The Laboratory&quot;:"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" the &quot;"/>
+                <ITEXT FONT="Carlito Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="Project Goliath"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="&quot; card."/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="2."/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" Shuffle the Common Cards by "/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="location"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=", forming three piles. (The City, The Road, The Laboratory)."/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Times New Roman Regular" FONTSIZE="6" FCOLOR="Yellow" FSHADE="100" CH="&quot;NB: Days 1, 2 and 3 will get mixed together within each location&quot;."/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Times New Roman Regular" FONTSIZE="6" FCOLOR="Yellow" FSHADE="100" CH=" "/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="3."/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" Draw the "/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="first three cards"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" for each location and add the cards from "/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="None" CH="step 1"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" to their respective piles. "/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Carlito Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="4."/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" "/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="Shuffle the four cards"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" for each location and leave them in the "/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="upper part of each pile"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="."/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="9" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="The Pathogensos"/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="The Survivors will need to eliminate the unique enemies of each location to obtain their Pathogens."/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="a."/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" "/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="&quot;"/>
+                <ITEXT FONT="Carlito Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="Abomination"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="&quot;: you receive "/>
+                <ITEXT FONT="Candara Bold Italic" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="&quot;"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="Pathogen A"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="&quot;."/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Carlito Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="b."/>
+                <ITEXT FONT="Carlito Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="None" CH=" "/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="&quot;"/>
+                <ITEXT FONT="Carlito Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="Witch"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="&quot;:"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="you receive "/>
+                <ITEXT FONT="Candara Bold Italic" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="&quot;"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="Pathogen B"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="&quot;."/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Carlito Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="c."/>
+                <ITEXT FONT="Carlito Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" "/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="&quot;"/>
+                <ITEXT FONT="Carlito Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="Project Goliath&quot;:"/>
+                <ITEXT FONT="Carlito Bold" FCOLOR="White" FSHADE="100" CH=" "/>
+                <ITEXT FONT="Carlito Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="you receive &quot;Pathogen C"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="&quot;."/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Cooper Std Black" FONTSIZE="7" FCOLOR="White" FSHADE="100" CH="·"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="The player who delivers the coup de grace receives the applicable Pathogen card. They can keep the Pathogen either in their hand or in the Reserve (if they have space), otherwise they will need to discard a card in the process or not collect the Pathogen card."/>
+                <para ALIGN="3" LINESP="12" OpticalMargins="0"/>
+                <ITEXT FONT="Times New Roman Regular" FONTSIZE="6" FCOLOR="Yellow" FSHADE="100" CH="&quot;NB: If the player decides not to collect the Pathogen they will not be able to win the game&quot;."/>
+                <para ALIGN="3" LINESP="12" OpticalMargins="0"/>
+                <para ALIGN="3" LINESP="12" OpticalMargins="0"/>
+                <ITEXT FONT="Cooper Std Black" FONTSIZE="7" FCOLOR="White" FSHADE="100" CH="·"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="Immediately"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" after a Survivor dies in individual or multi-player games, if one of the players is carrying a Pathogen card they can discard the Pathogen card to bring the Survivor who has just died back to life with half of their Vitality and Immunity Points."/>
+                <para ALIGN="3" LINESP="12" OpticalMargins="0"/>
+                <ITEXT FONT="Times New Roman Regular" FONTSIZE="6" FCOLOR="Yellow" FSHADE="100" CH="&quot;NB: This play is optional and does not use up any Actions&quot;."/>
+                <para ALIGN="3" LINESP="12" OpticalMargins="0"/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="9" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="Game Sequence"/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="&quot;"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="New Game +"/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="&quot; games always follow the same order of locations."/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="1."/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" Day 1 in the City."/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="2."/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" Day 2 on the Road (an extra Day may be added)."/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="3."/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" Day 3 in the Laboratory."/>
+                <para ALIGN="3" LINESP="12"/>
+                <para ALIGN="3" LINESP="12"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH="Deployment of the Main Zone (The Laboratory):"/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="1."/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" Take the &quot;The Laboratory Cards&quot; pile and separate the &quot;EXIT&quot; card."/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="2."/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" Draw four cards from the &quot;The Laboratory Cards&quot; pile.."/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="3."/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" Shuffle the &quot;EXIT&quot; card with the four drawn cards."/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Candara Bold" FONTSIZE="8" FCOLOR="White" FSHADE="100" BGCOLOR="Granate_Background" CH="4."/>
+                <ITEXT FONT="Candara Regular" FONTSIZE="8" FCOLOR="White" FSHADE="100" CH=" Combine the previously separated and shuffled &quot;The Laboratory Cards&quot; with the pile of Common Cards (The Laboratory), placing the cards as set out below."/>
+                <trail ALIGN="3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="117.809106470387" YPOS="350.386826771654" OwnPage="0" ItemID="234299360" PTYPE="4" WIDTH="225.971421088668" HEIGHT="14.5072463768117" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.0000003087487" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L225.971 0 L225.971 14.5072 L0 14.5072 L0 0 Z" copath="M0 0 L225.971 0 L225.971 14.5072 L0 14.5072 L0 0 Z" gXpos="-10.5383510977188" gYpos="-5287.74299220037" gWidth="153.017952755905" gHeight="30.0062992125992" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="m6x11 Medium" FONTSIZE="10" FCOLOR="White" FSHADE="100" CH="MEW GAME +"/>
+                <trail ALIGN="3" LINESP="12" OpticalMargins="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
